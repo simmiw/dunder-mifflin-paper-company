@@ -1,0 +1,146 @@
+{
+  "employees": [
+    {
+      "name": "Michael Scott",
+      "email": "ms@dm.com",
+      "department": "Regional Manager",
+      "title": "Regional Manager",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/Michael_Scott"
+    },
+
+    {
+      "name": "Dwight Schrute",
+      "email": "ds@dm.com",
+      "department": "Sales",
+      "title": "Salesman",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/dwight_schrute"
+    },
+    {
+      "name": "Jim Halpert",
+      "email": "jh@dm.com",
+      "department": "Sales",
+      "title": "Salesman",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/Jim_Halpert"
+    },
+
+    {
+      "name": "Andy Bernard",
+      "email": "ab@dm.com",
+      "department": "Sales",
+      "title": "Salesman",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/Andy_Bernard"
+    },
+
+    {
+      "name": "Phyllis Vance",
+      "email": "ph@dm.com",
+      "department": "Sales",
+      "title": "Saleswoman",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/Phyllis_vance"
+    },
+
+    {
+      "name": "Meredith Palmer",
+      "email": "mp@dm.com",
+      "department": "Purchasing and Supplier Relations",
+      "title": "Purchasing and Supplier Relationship Manager",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/Meredith_palmer"
+    },
+
+    {
+      "name": " Stanley Hudson",
+      "email": "sh@dm.com",
+      "department": "Sales",
+      "title": "Salesman",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/stanely_hudson"
+    },
+
+    {
+      "name": " Angela Martin",
+      "email": "am@dm.com",
+      "department": "Accounting",
+      "title": "Head of Accounting",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/angela_martin"
+    },
+
+    {
+      "name": "Oscar Martinez",
+      "email": "om@dm.com",
+      "department": "Accounting",
+      "title": "Accountant",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/oscar_martinez"
+    },
+
+    {
+      "name": "Kevin Malone",
+      "email": "km@dm.com",
+      "department": "Accounting",
+      "title": "Accountant",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/kevin_malone"
+    },
+
+    {
+      "name": "Pam Beesly",
+      "email": "pb@dm.com",
+      "department": "Reception",
+      "title": "Receptionist",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/Pam_beesly"
+    },
+
+    {
+      "name": "Toby Flenderson",
+      "email": "tf@dm.com",
+      "department": "Human Resources",
+      "title": "HR Representative",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/toby_flenderson"
+    },
+
+    {
+      "name": "Erin Hannon",
+      "email": "eh@dm.com",
+      "department": "Reception",
+      "title": "Receptionist",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/erin_hannon"
+    },
+
+    {
+      "name": "Kelly Kapur",
+      "email": "kk@dm.com",
+      "department": "Customer Service",
+      "title": "Customer Service Representative",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/Kelly_kapur"
+    },
+
+    {
+      "name": "Ryan Howard",
+      "email": "rh@dm.com",
+      "department": "Customer Service",
+      "title": "Customer Service Representative",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/ryan_howard"
+    },
+
+    {
+      "name": "Creed Bratton",
+      "email": "cb@dm.com",
+      "department": " Quality Assurance",
+      "title": " Quality Assurance Manager",
+      "branch": "Scranton",
+      "about": "https://theoffice.fandom.com/wiki/creed_bratton"
+    }
+  ]
+}
