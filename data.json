@@ -1,32 +1,39 @@
 {
   "employees": [
     {
+      "id": 1,
       "name": "Michael Scott",
       "email": "ms@dm.com",
       "department": "Regional Manager",
       "title": "Regional Manager",
       "branch": "Scranton",
+      "thumbnail": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/08/Michael-Scott---The-Office.jpg?q=50&fit=crop&w=1500&dpr=1.5",
       "about": "https://theoffice.fandom.com/wiki/Michael_Scott"
     },
 
     {
+      "id": 2,
       "name": "Dwight Schrute",
       "email": "ds@dm.com",
       "department": "Sales",
       "title": "Salesman",
       "branch": "Scranton",
+      "thumbnail": "https://collider.com/the-office-character-and-cast-guide/",
       "about": "https://theoffice.fandom.com/wiki/dwight_schrute"
     },
     {
+      "id": 3,
       "name": "Jim Halpert",
       "email": "jh@dm.com",
       "department": "Sales",
       "title": "Salesman",
       "branch": "Scranton",
+      "thumbnail": "https://collider.com/the-office-character-and-cast-guide/",
       "about": "https://theoffice.fandom.com/wiki/Jim_Halpert"
     },
 
     {
+      "id": 4,
       "name": "Andy Bernard",
       "email": "ab@dm.com",
       "department": "Sales",
@@ -36,6 +43,7 @@
     },
 
     {
+      "id": 5,
       "name": "Phyllis Vance",
       "email": "ph@dm.com",
       "department": "Sales",
@@ -45,6 +53,7 @@
     },
 
     {
+      "id": 6,
       "name": "Meredith Palmer",
       "email": "mp@dm.com",
       "department": "Purchasing and Supplier Relations",
@@ -54,6 +63,7 @@
     },
 
     {
+      "id": 7,
       "name": " Stanley Hudson",
       "email": "sh@dm.com",
       "department": "Sales",
@@ -63,6 +73,7 @@
     },
 
     {
+      "id": 8,
       "name": " Angela Martin",
       "email": "am@dm.com",
       "department": "Accounting",
@@ -72,6 +83,7 @@
     },
 
     {
+      "id": 9,
       "name": "Oscar Martinez",
       "email": "om@dm.com",
       "department": "Accounting",
@@ -81,6 +93,7 @@
     },
 
     {
+      "id": 10,
       "name": "Kevin Malone",
       "email": "km@dm.com",
       "department": "Accounting",
@@ -90,6 +103,7 @@
     },
 
     {
+      "id": 11,
       "name": "Pam Beesly",
       "email": "pb@dm.com",
       "department": "Reception",
@@ -99,6 +113,7 @@
     },
 
     {
+      "id": 12,
       "name": "Toby Flenderson",
       "email": "tf@dm.com",
       "department": "Human Resources",
@@ -108,6 +123,7 @@
     },
 
     {
+      "id": 13,
       "name": "Erin Hannon",
       "email": "eh@dm.com",
       "department": "Reception",
@@ -117,6 +133,7 @@
     },
 
     {
+      "id": 14,
       "name": "Kelly Kapur",
       "email": "kk@dm.com",
       "department": "Customer Service",
@@ -126,6 +143,7 @@
     },
 
     {
+      "id": 15,
       "name": "Ryan Howard",
       "email": "rh@dm.com",
       "department": "Customer Service",
@@ -135,9 +153,10 @@
     },
 
     {
+      "id": 16,
       "name": "Creed Bratton",
       "email": "cb@dm.com",
-      "department": " Quality Assurance",
+      "department": "Quality Assurance",
       "title": " Quality Assurance Manager",
       "branch": "Scranton",
       "about": "https://theoffice.fandom.com/wiki/creed_bratton"
