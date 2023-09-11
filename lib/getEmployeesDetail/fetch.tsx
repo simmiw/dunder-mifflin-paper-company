@@ -1,9 +1,20 @@
-export default async function getEmployeesDetail(team) {
-  const response = await fetch("http://localhost:4000/employees?department_like=" + team, {
-    next: {
-      revalidate: 0,
-    },
-  });
+import { notFound } from "next/navigation";
 
-  return response.json();
+export default async function getEmployeesDetail(team) {
+  const response = await fetch(
+    "http://localhost:4000/employees?department_like=" + team,
+    {
+      next: {
+        revalidate: 0,
+      },
+    }
+  );
+
+  const data = await response.json();
+
+  if (!data.length) {
+    return notFound();
+  }
+
+  return data;
 }

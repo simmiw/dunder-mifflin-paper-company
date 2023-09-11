@@ -18,7 +18,7 @@
       "department": "Sales",
       "title": "Salesman",
       "branch": "Scranton",
-      "thumbnail": "https://collider.com/the-office-character-and-cast-guide/",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/59da5d13cf81e005db71d925/1513171418491-XQGKXDDIZ8JDUWK33RJC/dwight.jpg?format=1000w",
       "about": "https://theoffice.fandom.com/wiki/dwight_schrute"
     },
     {
@@ -28,7 +28,7 @@
       "department": "Sales",
       "title": "Salesman",
       "branch": "Scranton",
-      "thumbnail": "https://collider.com/the-office-character-and-cast-guide/",
+      "thumbnail": "https://www.nbc.com/sites/nbcblog/files/2023/07/the-office-jim-halpert.jpg",
       "about": "https://theoffice.fandom.com/wiki/Jim_Halpert"
     },
 
@@ -39,6 +39,7 @@
       "department": "Sales",
       "title": "Salesman",
       "branch": "Scranton",
+      "thumbnail":"https://assets.mycast.io/characters/andy-bernard-99689-normal.jpg?1591751353",
       "about": "https://theoffice.fandom.com/wiki/Andy_Bernard"
     },
 
@@ -49,6 +50,7 @@
       "department": "Sales",
       "title": "Saleswoman",
       "branch": "Scranton",
+      "thumbnail":"https://img.nbc.com/sites/nbcunbc/files/metaverse_assets/1/0/6/3/4/5/phyllis-500x500.jpg",
       "about": "https://theoffice.fandom.com/wiki/Phyllis_vance"
     },
 
@@ -59,6 +61,7 @@
       "department": "Purchasing and Supplier Relations",
       "title": "Purchasing and Supplier Relationship Manager",
       "branch": "Scranton",
+      "thumbnail":"https://www.looper.com/img/gallery/what-was-merediths-true-job-title-in-the-office/intro-1686786426.webp",
       "about": "https://theoffice.fandom.com/wiki/Meredith_palmer"
     },
 
@@ -69,6 +72,7 @@
       "department": "Sales",
       "title": "Salesman",
       "branch": "Scranton",
+      "thumbnail":"https://variety.com/wp-content/uploads/2023/08/TCDOFFI_EC143.jpg?w=1000&h=563&crop=1",
       "about": "https://theoffice.fandom.com/wiki/stanely_hudson"
     },
 
@@ -79,6 +83,7 @@
       "department": "Accounting",
       "title": "Head of Accounting",
       "branch": "Scranton",
+      "thumbnail":"https://devsari.com/wp-content/uploads/2021/04/c8cbd3e2a5d507794abd7b8dff59a8fd.jpg",
       "about": "https://theoffice.fandom.com/wiki/angela_martin"
     },
 
@@ -89,6 +94,7 @@
       "department": "Accounting",
       "title": "Accountant",
       "branch": "Scranton",
+      "thumbnail":"https://img.nbc.com/sites/nbcunbc/files/metaverse_assets/1/0/6/3/4/1/oscar-500x500.jpg",
       "about": "https://theoffice.fandom.com/wiki/oscar_martinez"
     },
 
@@ -99,6 +105,7 @@
       "department": "Accounting",
       "title": "Accountant",
       "branch": "Scranton",
+      "thumbnail":"https://ih1.redbubble.net/image.3121831260.4895/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
       "about": "https://theoffice.fandom.com/wiki/kevin_malone"
     },
 
@@ -109,6 +116,7 @@
       "department": "Reception",
       "title": "Receptionist",
       "branch": "Scranton",
+      "thumbnail":"https://i2-prod.mirror.co.uk/incoming/article26891414.ece/ALTERNATES/n615/2_The-Office.jpg",
       "about": "https://theoffice.fandom.com/wiki/Pam_beesly"
     },
 
@@ -119,6 +127,7 @@
       "department": "Human Resources",
       "title": "HR Representative",
       "branch": "Scranton",
+      "thumbnail":"https://assets-jpcust.jwpsrv.com/thumbnails/ryo2sq86-720.jpg",
       "about": "https://theoffice.fandom.com/wiki/toby_flenderson"
     },
 
@@ -129,6 +138,7 @@
       "department": "Reception",
       "title": "Receptionist",
       "branch": "Scranton",
+      "thumbnail":"https://www.nbc.com/sites/nbcblog/files/2023/07/erin-hannon-the-office.jpg",
       "about": "https://theoffice.fandom.com/wiki/erin_hannon"
     },
 
@@ -139,6 +149,7 @@
       "department": "Customer Service",
       "title": "Customer Service Representative",
       "branch": "Scranton",
+      "thumbnail":"https://www.nbc.com/sites/nbcblog/files/2022/08/mindy-kaling-interview2.jpg",
       "about": "https://theoffice.fandom.com/wiki/Kelly_kapur"
     },
 
@@ -149,6 +160,7 @@
       "department": "Customer Service",
       "title": "Customer Service Representative",
       "branch": "Scranton",
+      "thumbnail":"https://cdn.mos.cms.futurecdn.net/4MwySDFfBLtYvJTk4VZkVh.jpg",
       "about": "https://theoffice.fandom.com/wiki/ryan_howard"
     },
 
@@ -159,6 +171,7 @@
       "department": "Quality Assurance",
       "title": " Quality Assurance Manager",
       "branch": "Scranton",
+      "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr85WVMB8l5PqpCak6yrEtGwrh6C6ExSI4g&usqp=CAU",
       "about": "https://theoffice.fandom.com/wiki/creed_bratton"
     }
   ]
