@@ -10,7 +10,6 @@
       "thumbnail": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/08/Michael-Scott---The-Office.jpg?q=50&fit=crop&w=1500&dpr=1.5",
       "about": "https://theoffice.fandom.com/wiki/Michael_Scott"
     },
-
     {
       "id": 2,
       "name": "Dwight Schrute",
@@ -31,7 +30,6 @@
       "thumbnail": "https://www.nbc.com/sites/nbcblog/files/2023/07/the-office-jim-halpert.jpg",
       "about": "https://theoffice.fandom.com/wiki/Jim_Halpert"
     },
-
     {
       "id": 4,
       "name": "Andy Bernard",
@@ -39,10 +37,9 @@
       "department": "Sales",
       "title": "Salesman",
       "branch": "Scranton",
-      "thumbnail":"https://assets.mycast.io/characters/andy-bernard-99689-normal.jpg?1591751353",
+      "thumbnail": "https://assets.mycast.io/characters/andy-bernard-99689-normal.jpg?1591751353",
       "about": "https://theoffice.fandom.com/wiki/Andy_Bernard"
     },
-
     {
       "id": 5,
       "name": "Phyllis Vance",
@@ -50,10 +47,9 @@
       "department": "Sales",
       "title": "Saleswoman",
       "branch": "Scranton",
-      "thumbnail":"https://img.nbc.com/sites/nbcunbc/files/metaverse_assets/1/0/6/3/4/5/phyllis-500x500.jpg",
+      "thumbnail": "https://img.nbc.com/sites/nbcunbc/files/metaverse_assets/1/0/6/3/4/5/phyllis-500x500.jpg",
       "about": "https://theoffice.fandom.com/wiki/Phyllis_vance"
     },
-
     {
       "id": 6,
       "name": "Meredith Palmer",
@@ -61,10 +57,9 @@
       "department": "Purchasing and Supplier Relations",
       "title": "Purchasing and Supplier Relationship Manager",
       "branch": "Scranton",
-      "thumbnail":"https://www.looper.com/img/gallery/what-was-merediths-true-job-title-in-the-office/intro-1686786426.webp",
+      "thumbnail": "https://www.looper.com/img/gallery/what-was-merediths-true-job-title-in-the-office/intro-1686786426.webp",
       "about": "https://theoffice.fandom.com/wiki/Meredith_palmer"
     },
-
     {
       "id": 7,
       "name": " Stanley Hudson",
@@ -72,10 +67,9 @@
       "department": "Sales",
       "title": "Salesman",
       "branch": "Scranton",
-      "thumbnail":"https://variety.com/wp-content/uploads/2023/08/TCDOFFI_EC143.jpg?w=1000&h=563&crop=1",
+      "thumbnail": "https://variety.com/wp-content/uploads/2023/08/TCDOFFI_EC143.jpg?w=1000&h=563&crop=1",
       "about": "https://theoffice.fandom.com/wiki/stanely_hudson"
     },
-
     {
       "id": 8,
       "name": " Angela Martin",
@@ -83,10 +77,9 @@
       "department": "Accounting",
       "title": "Head of Accounting",
       "branch": "Scranton",
-      "thumbnail":"https://devsari.com/wp-content/uploads/2021/04/c8cbd3e2a5d507794abd7b8dff59a8fd.jpg",
+      "thumbnail": "https://devsari.com/wp-content/uploads/2021/04/c8cbd3e2a5d507794abd7b8dff59a8fd.jpg",
       "about": "https://theoffice.fandom.com/wiki/angela_martin"
     },
-
     {
       "id": 9,
       "name": "Oscar Martinez",
@@ -94,10 +87,9 @@
       "department": "Accounting",
       "title": "Accountant",
       "branch": "Scranton",
-      "thumbnail":"https://img.nbc.com/sites/nbcunbc/files/metaverse_assets/1/0/6/3/4/1/oscar-500x500.jpg",
+      "thumbnail": "https://img.nbc.com/sites/nbcunbc/files/metaverse_assets/1/0/6/3/4/1/oscar-500x500.jpg",
       "about": "https://theoffice.fandom.com/wiki/oscar_martinez"
     },
-
     {
       "id": 10,
       "name": "Kevin Malone",
@@ -105,10 +97,9 @@
       "department": "Accounting",
       "title": "Accountant",
       "branch": "Scranton",
-      "thumbnail":"https://ih1.redbubble.net/image.3121831260.4895/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
+      "thumbnail": "https://ih1.redbubble.net/image.3121831260.4895/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
       "about": "https://theoffice.fandom.com/wiki/kevin_malone"
     },
-
     {
       "id": 11,
       "name": "Pam Beesly",
@@ -116,10 +107,9 @@
       "department": "Reception",
       "title": "Receptionist",
       "branch": "Scranton",
-      "thumbnail":"https://i2-prod.mirror.co.uk/incoming/article26891414.ece/ALTERNATES/n615/2_The-Office.jpg",
+      "thumbnail": "https://i2-prod.mirror.co.uk/incoming/article26891414.ece/ALTERNATES/n615/2_The-Office.jpg",
       "about": "https://theoffice.fandom.com/wiki/Pam_beesly"
     },
-
     {
       "id": 12,
       "name": "Toby Flenderson",
@@ -127,10 +117,9 @@
       "department": "Human Resources",
       "title": "HR Representative",
       "branch": "Scranton",
-      "thumbnail":"https://assets-jpcust.jwpsrv.com/thumbnails/ryo2sq86-720.jpg",
+      "thumbnail": "https://assets-jpcust.jwpsrv.com/thumbnails/ryo2sq86-720.jpg",
       "about": "https://theoffice.fandom.com/wiki/toby_flenderson"
     },
-
     {
       "id": 13,
       "name": "Erin Hannon",
@@ -138,10 +127,9 @@
       "department": "Reception",
       "title": "Receptionist",
       "branch": "Scranton",
-      "thumbnail":"https://www.nbc.com/sites/nbcblog/files/2023/07/erin-hannon-the-office.jpg",
+      "thumbnail": "https://www.nbc.com/sites/nbcblog/files/2023/07/erin-hannon-the-office.jpg",
       "about": "https://theoffice.fandom.com/wiki/erin_hannon"
     },
-
     {
       "id": 14,
       "name": "Kelly Kapur",
@@ -149,10 +137,9 @@
       "department": "Customer Service",
       "title": "Customer Service Representative",
       "branch": "Scranton",
-      "thumbnail":"https://www.nbc.com/sites/nbcblog/files/2022/08/mindy-kaling-interview2.jpg",
+      "thumbnail": "https://www.nbc.com/sites/nbcblog/files/2022/08/mindy-kaling-interview2.jpg",
       "about": "https://theoffice.fandom.com/wiki/Kelly_kapur"
     },
-
     {
       "id": 15,
       "name": "Ryan Howard",
@@ -160,10 +147,9 @@
       "department": "Customer Service",
       "title": "Customer Service Representative",
       "branch": "Scranton",
-      "thumbnail":"https://cdn.mos.cms.futurecdn.net/4MwySDFfBLtYvJTk4VZkVh.jpg",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/4MwySDFfBLtYvJTk4VZkVh.jpg",
       "about": "https://theoffice.fandom.com/wiki/ryan_howard"
     },
-
     {
       "id": 16,
       "name": "Creed Bratton",
@@ -171,8 +157,18 @@
       "department": "Quality Assurance",
       "title": " Quality Assurance Manager",
       "branch": "Scranton",
-      "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr85WVMB8l5PqpCak6yrEtGwrh6C6ExSI4g&usqp=CAU",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr85WVMB8l5PqpCak6yrEtGwrh6C6ExSI4g&usqp=CAU",
       "about": "https://theoffice.fandom.com/wiki/creed_bratton"
+    },
+    {
+      "name": "Danny Cordray",
+      "email": "Danny Cordray@gmail.com",
+      "title": "Travelling Salesman",
+      "branch": "Scranton",
+      "department": "Sales",
+      "thumbnail": "https://pm1.aminoapps.com/7064/817afaf8f7cbbfb59b14dc9706a123dd51323a62r1-650-367v2_uhq.jpg",
+      "about": "https://theoffice.fandom.com/wiki/Danny_Cordray",
+      "id": 17
     }
   ]
 }

@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 
-export default async function getEmployeesDetail(team) {
+export default async function getEmployeesDetail(team: string) {
   const response = await fetch(
     "http://localhost:4000/employees?department_like=" + team,
     {

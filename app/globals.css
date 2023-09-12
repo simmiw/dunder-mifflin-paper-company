@@ -47,9 +47,23 @@ button:hover {
 }
 
 .btn-primary {
-  @apply  text-white;
+  @apply bg-blue-600 text-white;
 }
 
 .btn-secondary {
   @apply bg-gray-200 text-gray-900;
+}
+
+form label {
+  @apply block;
+}
+
+form input,
+form textarea,
+form select {
+  @apply block mt-2 my-4 px-2 py-1 rounded-sm w-full;
+}
+
+form button {
+  @apply block mx-auto;
 }
