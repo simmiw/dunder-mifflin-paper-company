@@ -45,7 +45,7 @@ export default function Form() {
       <form onSubmit={handleSubmit} className="w-1/2">
         <label>
           <span>Name:</span>
-          <input
+          <input required
             type="text"
             value={name}
             onChange={(e) => {
@@ -56,7 +56,7 @@ export default function Form() {
 
         <label>
           <span>Email:</span>
-          <input
+          <input required
             type="text"
             value={email}
             onChange={(e) => {
@@ -67,7 +67,7 @@ export default function Form() {
 
         <label>
           <span>Title:</span>
-          <input
+          <input required
             type="text"
             value={title}
             onChange={(e) => {
@@ -78,7 +78,7 @@ export default function Form() {
 
         <label>
           <span>Branch:</span>
-          <input
+          <input required
             type="text"
             value={branch}
             onChange={(e) => {
@@ -89,7 +89,7 @@ export default function Form() {
 
         <label>
           <span>Team:</span>
-          <input
+          <input required
             type="text"
             value={department}
             onChange={(e) => {
@@ -100,7 +100,7 @@ export default function Form() {
 
         <label>
           <span>Image:</span>
-          <input
+          <input required
             type="text"
             value={thumbnail}
             onChange={(e) => {
@@ -111,7 +111,7 @@ export default function Form() {
 
         <label>
           <span>Know More:</span>
-          <input
+          <input required
             type="text"
             value={about}
             onChange={(e) => {

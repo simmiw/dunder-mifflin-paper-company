@@ -6,13 +6,13 @@ import Loading from "../loading";
 export default async function Team() {
   const data = await getDepartmentList();
   const set = new Set<string>();
-  data.forEach((e: { department: string; }) => set.add(e.department));
-  const departments = [...{set}];
+  data.forEach((e: { department: string }) => set.add(e.department));
+  const departments = Array.from(set);
 
   return (
     <>
       <h2 className="text-center mb-7">Dunder Mifflin Scanton Team</h2>
-      { <Suspense fallback={<Loading />}></Suspense> }
+      {<Suspense fallback={<Loading />}></Suspense>}
       {departments
         ? departments.map((dept) => {
             return (

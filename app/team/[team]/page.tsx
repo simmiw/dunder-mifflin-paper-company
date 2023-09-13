@@ -2,15 +2,13 @@ import getEmployeesDetail from "@/lib/getEmployeesDetail/fetch";
 
 import Link from "next/link";
 
-interface SerachParams {
-  team: string;
+interface IProps {
+  params: {
+    team: string;
+  };
 }
 
-export default async function TeamDetails({
-  params,
-}: {
-  params: SerachParams;
-}) {
+export default async function TeamDetails({ params }: IProps) {
   const data = await getEmployeesDetail(params.team);
 
   return (
