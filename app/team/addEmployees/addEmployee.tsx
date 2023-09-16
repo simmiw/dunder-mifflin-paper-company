@@ -20,7 +20,7 @@ export default function Form() {
 
     const addEmployee = {
       name,
-      email: `${name}@gmail.com`,
+      email,
       title,
       branch,
       department,
@@ -28,7 +28,7 @@ export default function Form() {
       about,
     };
 
-    const res = await fetch(" http://localhost:4000/employees", {
+    const res = await fetch("http://localhost:4000/employees", {
       method: "POST",
       headers: { "content-type": "application/json" },
       body: JSON.stringify(addEmployee),
