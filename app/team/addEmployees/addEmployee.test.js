@@ -12,7 +12,7 @@ jest.mock("next/navigation", () => ({
 
 describe("addEmployee", () => {
   it("should render the form", () => {
-    render(<Form />);
+    const sut = render(<Form />);
     expect(screen.getByLabelText("Name:")).toBeVisible();
     expect(screen.getByLabelText("Email:")).toBeVisible();
     expect(screen.getByLabelText("Title:")).toBeVisible();
@@ -21,8 +21,10 @@ describe("addEmployee", () => {
     expect(screen.getByLabelText("Image:")).toBeVisible();
     expect(screen.getByLabelText("Know More:")).toBeVisible();
     expect(screen.getByText("Submit")).toBeVisible();
+    expect(sut.container).toMatchSnapshot();
   });
 
+  
   it("should submit the form when filled and valid", async () => {
     render(<Form />);
     global.fetch = jest.fn().mockResolvedValue({ status: 201 });
@@ -75,7 +77,7 @@ describe("addEmployee", () => {
     );
     expect(screen.getByText("Adding...")).toBeVisible();
     await waitFor(() => {
-        expect(mockRouterPushFn).toBeCalledWith("/team");
+      expect(mockRouterPushFn).toBeCalledWith("/team");
     });
   });
 });
