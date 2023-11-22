@@ -1,6 +1,10 @@
 import { notFound } from "next/navigation";
 
-export default async function getDepartmentList() {
+interface Department {
+  department: string;
+}
+
+export default async function getDepartmentList(): Promise<Department[]> {
   const response = await fetch("http://localhost:4000/employees", {
     next: {
       revalidate: 0,

@@ -3,15 +3,17 @@
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 
+
+
 export default function Form() {
-  const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
-  const [title, setTitle] = useState("");
-  const [branch, setBranch] = useState("");
-  const [department, setDepartment] = useState("");
-  const [thumbnail, setThumbnail] = useState("");
-  const [about, setAbout] = useState("");
-  const [isLoading, setIsLoading] = useState(false);
+  const [name, setName] = useState<string>("");
+  const [email, setEmail] = useState<string>("");
+  const [title, setTitle] = useState<string>("");
+  const [branch, setBranch] = useState<string>("");
+  const [department, setDepartment] = useState<string>("");
+  const [thumbnail, setThumbnail] = useState<string>("");
+  const [about, setAbout] = useState<string>("");
+  const [isLoading, setIsLoading] = useState<boolean>(false);
   const router = useRouter();
 
   const handleSubmit = async (e: React.FormEvent) => {
