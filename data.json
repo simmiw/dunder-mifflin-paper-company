@@ -169,6 +169,16 @@
       "thumbnail": "https://pm1.aminoapps.com/7064/817afaf8f7cbbfb59b14dc9706a123dd51323a62r1-650-367v2_uhq.jpg",
       "about": "https://theoffice.fandom.com/wiki/Danny_Cordray",
       "id": 17
+    },
+    {
+      "name": "Hari",
+      "email": "hari@gmail.com",
+      "title": "Regional Manager",
+      "branch": "Scranton",
+      "department": "Sales",
+      "thumbnail": "https://img.freepik.com/free-photo/crazy-man-funny-expression_1194-3287.jpg?w=900&t=st=1701258815~exp=1701259415~hmac=d812046a9745eab5fe075fc87e6f41daa9d699037d86f9c6bcfbb939ab15c1fb",
+      "about": "gugu",
+      "id": 18
     }
   ]
 }
