@@ -17,6 +17,7 @@ export default function Navbar() {
           <Link href="/about">About </Link>
           <Link href="/team">Team</Link>
           <Link href= "/team/addEmployees">Add Employee</Link>
+          <Link href="/products">Products</Link>
         </div>
       </nav>
     </>
