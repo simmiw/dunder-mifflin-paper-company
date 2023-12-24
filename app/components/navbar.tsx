@@ -4,7 +4,7 @@ import logo from "./dunder_mifflin_logo.png";
 
 export default function Navbar() {
   return (
-    <>
+    <div className='p-8'>
       <Image
         src={logo}
         width={40}
@@ -12,14 +12,14 @@ export default function Navbar() {
         alt="Dunder-Mifflin-Logo"
       />
       <nav>
-        <div className="flex space-x-60 text-blue-400">
+        <div className="flex space-x-40 text-blue-400">
           <Link href="/">Home</Link>
           <Link href="/about">About </Link>
           <Link href="/team">Team</Link>
-          <Link href= "/team/addEmployees">Add Employee</Link>
+          <Link href="/team/addEmployees">Add Employee</Link>
           <Link href="/products">Products</Link>
         </div>
       </nav>
-    </>
+    </div>
   );
 }
