@@ -11,53 +11,55 @@ jest.mock("next/navigation", () => ({
 }));
 
 describe("addEmployee", () => {
+  let sut;
+
+  beforeEach(() => sut = render(<Form />));
+
   it("should render the form", () => {
-    const sut = render(<Form />);
-    expect(screen.getByLabelText("Name:")).toBeVisible();
-    expect(screen.getByLabelText("Email:")).toBeVisible();
-    expect(screen.getByLabelText("Title:")).toBeVisible();
-    expect(screen.getByLabelText("Branch:")).toBeVisible();
-    expect(screen.getByLabelText("Team:")).toBeVisible();
-    expect(screen.getByLabelText("Image:")).toBeVisible();
-    expect(screen.getByLabelText("Know More:")).toBeVisible();
-    expect(screen.getByText("Submit")).toBeVisible();
+    expect(screen.getByLabelText(/Name/)).toBeVisible();
+    expect(screen.getByLabelText(/Email/)).toBeVisible();
+    expect(screen.getByLabelText(/Title/)).toBeVisible();
+    expect(screen.getByLabelText(/Branch/)).toBeVisible();
+    expect(screen.getByLabelText(/Team/)).toBeVisible();
+    expect(screen.getByLabelText(/Image/)).toBeVisible();
+    expect(screen.getByLabelText(/Know More/)).toBeVisible();
+    expect(screen.getByText(/Submit/)).toBeVisible();
     expect(sut.container).toMatchSnapshot();
   });
 
-  
+
   it("should submit the form when filled and valid", async () => {
-    render(<Form />);
     global.fetch = jest.fn().mockResolvedValue({ status: 201 });
 
-    fireEvent.change(screen.getByLabelText("Name:"), {
+    fireEvent.change(screen.getByLabelText(/Name/), {
       target: { value: "Michel Scott" },
     });
 
-    fireEvent.change(screen.getByLabelText("Email:"), {
+    fireEvent.change(screen.getByLabelText(/Email/), {
       target: { value: "michalscoot@gmail.com" },
     });
 
-    fireEvent.change(screen.getByLabelText("Title:"), {
+    fireEvent.change(screen.getByLabelText(/Title/), {
       target: { value: "Regional Manager" },
     });
 
-    fireEvent.change(screen.getByLabelText("Branch:"), {
+    fireEvent.change(screen.getByLabelText(/Branch/), {
       target: { value: "Scanton" },
     });
 
-    fireEvent.change(screen.getByLabelText("Team:"), {
+    fireEvent.change(screen.getByLabelText(/Team/), {
       target: { value: "Sales" },
     });
 
-    fireEvent.change(screen.getByLabelText("Image:"), {
+    fireEvent.change(screen.getByLabelText(/Image/), {
       target: { value: "image.jpg" },
     });
 
-    fireEvent.change(screen.getByLabelText("Know More:"), {
+    fireEvent.change(screen.getByLabelText(/Know More/), {
       target: { value: "More Details" },
     });
 
-    fireEvent.click(screen.getByText("Submit"));
+    fireEvent.click(screen.getByText(/Submit/));
 
     expect(global.fetch).toHaveBeenCalledWith(
       "http://localhost:4000/employees",
